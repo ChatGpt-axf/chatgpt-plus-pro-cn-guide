@@ -2,7 +2,7 @@
 
 > 最近更新时间：2026 年 8 月 16 日
 
-# ChatGPT & Codex 中文使用指南
+## 项目简介
 
 一个持续更新的 **ChatGPT、Codex 中文开发者资料库**，整理实际使用过程中常见的教程、配置方法、版本选择和问题排查。
 
@@ -22,6 +22,11 @@
 
 ## 🔥 推荐阅读
 
+- [ChatGPT Plus 和 Pro 怎么选](articles/chatgpt-plus-vs-pro.md)
+- [没有海外信用卡如何订阅 ChatGPT](articles/chatgpt-no-foreign-card-guide.md)
+- [Codex 额度不足怎么办](articles/codex-usage-limit-guide.md)
+- [ChatGPT 订阅状态异常排查](troubleshooting/)
+- [ChatGPT 常见问题汇总](faq/)
 
 ## Plus、Pro 和 Codex 有什么区别
 

@@ -26,8 +26,8 @@
 - [Codex CLI 怎么用？2026 从安装到实际项目操作完整教程](articles/codex-cli-guide.md)
 - [AGENTS.md 怎么写？2026 Codex 项目配置与最佳实践](articles/agents-md-guide.md)
 - [ChatGPT Plus 和 Pro 怎么选](articles/chatgpt-plus-vs-pro.md)
-- [没有海外信用卡如何订阅 ChatGPT](articles/chatgpt-no-foreign-card-guide.md)
-- [Codex 额度不足怎么办](articles/codex-usage-limit-guide.md)
+- [没有海外信用卡怎么订阅 ChatGPT？2026 Plus / Pro 国内使用与充值指南](articles/chatgpt-subscription-without-overseas-card.md)
+- [Codex 使用额度不够怎么办？2026 Usage Limit、Credits 与 Plus / Pro 指南](articles/codex-usage-limit-guide.md)
 - [ChatGPT 订阅状态异常排查](troubleshooting/)
 - [ChatGPT 常见问题汇总](faq/)
 

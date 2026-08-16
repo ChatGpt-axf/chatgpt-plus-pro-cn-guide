@@ -22,6 +22,7 @@
 
 ## 🔥 推荐阅读
 
+- [Codex 是什么？2026 开发者入门与使用场景指南](articles/what-is-codex.md)
 - [ChatGPT Plus 和 Pro 怎么选](articles/chatgpt-plus-vs-pro.md)
 - [没有海外信用卡如何订阅 ChatGPT](articles/chatgpt-no-foreign-card-guide.md)
 - [Codex 额度不足怎么办](articles/codex-usage-limit-guide.md)

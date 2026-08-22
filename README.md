@@ -30,6 +30,7 @@
 - [Codex 使用额度不够怎么办？2026 Usage Limit、Credits 与 Plus / Pro 指南](articles/codex-usage-limit-guide.md)
 - [ChatGPT 订阅状态异常排查](troubleshooting/)
 - [ChatGPT 常见问题汇总](faq/)
+- [Codex 修复 Bug 怎么用？2026 从问题定位到测试验证完整实战](articles/codex-bug-fixing-guide.md)
 
 ## Plus、Pro 和 Codex 有什么区别
 
